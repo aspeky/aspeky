@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Star/Starlight</h1>
+<h1 align="center">Hi 👋, I'm Aspekt</h1>
 <h3 align="center">I'm Starlight, a full-time full-stack freelance developer working remotely since 2010</h3>
 
 ***
@@ -8,7 +8,7 @@
 
 - I'm currently learning **public blockchain, cryptocurrency, decentralized finance and decentralized applications.**
 
-- Contact mme thorugh Discord **starlight#5787**
+- Contact mme thorugh Discord **Aspekt#5787**
 
 
 <p align="left">
