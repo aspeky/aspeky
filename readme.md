@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aspekt</h1>
-<h3 align="center">I'm Starlight, a full-time full-stack freelance developer working remotely since 2010</h3>
+<h1 align="center">Hi 👋, I'm Aspeky</h1>
+<h3 align="center">A full-time full-stack freelance developer working remotely since 2010</h3>
 
 ***
 
