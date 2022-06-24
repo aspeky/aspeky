@@ -8,7 +8,7 @@
 
 - I'm currently learning **public blockchain, cryptocurrency, decentralized finance and decentralized applications.**
 
-- Contact mme thorugh Discord **Aspekt#5787**
+- Contact mme thorugh Discord **Aspeky#5787**
 
 
 <p align="left">
