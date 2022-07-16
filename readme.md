@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img align="center" src="inkpx-word-art.png">
+  <img align="center" src="synvatto.png">
 	<br>
 	<br>
   Welcome To My Github Profile!
